@@ -2,20 +2,6 @@
 
 | Section                                           | Description                         |
 | ------------------------------------------------- | ----------------------------------- |
-| [flcn.ae (EN)](#flcnae-en)                        | English version overview            |
-| [Origin and Development](#origin-and-development) | Technical and historical background |
-| [Features](#features)                             | Key AI-powered features             |
-| [Positioning](#positioning)                       | Ethical and regional focus          |
-| [See Also](#see-also)                             | Related topics                      |
-| [References](#references)                         | External sources                    |
-
-| [flcn.ae (FR)](#flcnae-fr) | Version française |
-| [Origine et développement](#origine-et-développement) | Contexte technique et historique |
-| [Fonctionnalités](#fonctionnalités) | Caractéristiques principales |
-| [Positionnement](#positionnement) | Vision éthique et régionale |
-| [Voir aussi](#voir-aussi) | Sujets associés |
-| [Références](#références-1) | Sources externes |
-
 | [flcn.ae (AR)](#flcnae-ar) | النسخة العربية |
 | [النشأة والتطوير](#النشأة-والتطوير) | الخلفية التقنية والتاريخية |
 | [الميزات](#الميزات) | الميزات التقنية والذكاء الاصطناعي |
@@ -23,10 +9,60 @@
 | [انظر أيضًا](#انظر-أيضًا) | روابط ذات صلة |
 | [المراجع](#المراجع) | المصادر |
 
-| [flcn.ae (ZH)](#flcnae-zh) | 中文版本 |
-| [起源与开发](#起源与开发) | 技术和开发背景 |
-| [核心功能](#核心功能) | 主要 AI 功能 |
-| [定位](#定位) | 区域与文化战略 |
+Ecco una **tabella in formato Markdown** che confronta le versioni giapponese (JP), tedesca (DE), spagnola (ES) e italiana (IT) dell'articolo su **flcn.ae**, organizzando le principali informazioni per lingua:
+
+---
+
+### 🌍 **flcn.ae – Confronto multilingue**
+
+| Sezione                | 🇯🇵 日本語 (JP)                                                                         | 🇩🇪 Deutsch (DE)                                                                                | 🇪🇸 Español (ES)                                                                                | 🇮🇹 Italiano (IT) *(da completare)*                  |
+| ---------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| **Nome**               | flcn.ae（فالكون、「ファルコン」）                                                               | flcn.ae, auch bekannt als فالكون („Falke“)                                                       | flcn.ae, también conocido como فالكون (“Halcón”)                                                 | flcn.ae, conosciuto anche come فالكون (“Falco”)       |
+| **Anno di lancio**     | 2025年                                                                                 | 2025                                                                                             | 2025                                                                                             | 2025                                                  |
+| **Origine**            | ガレージプロジェクト、一人の開発者                                                                     | Garage-Projekt, von einer einzelnen Person entwickelt                                            | Proyecto de garaje desarrollado por una sola persona                                             | Progetto di garage realizzato da una sola persona     |
+| **Tecnologie**         | Go（バックエンド）+ Vue.js（フロントエンド）                                                           | Go (Backend) + Vue.js (Frontend)                                                                 | Go (backend) + Vue.js (frontend)                                                                 | Go (backend) + Vue.js (frontend)                      |
+| **Standard moderni**   | HTTP/3、AVIFf                                                                          | HTTP/3, AVIFf                                                                                    | HTTP/3, AVIFf                                                                                    | HTTP/3, AVIFf                                         |
+| **Caratteristiche AI** | NLP、機械学習による最適化                                                                        | NLP und maschinelles Lernen zur Optimierung                                                      | NLP y aprendizaje automático                                                                     | NLP e machine learning per ottimizzazione             |
+| **Filtri contenuto**   | NSFWブロック、アラブ・イスラム文化に配慮                                                                | NSFW-Filter im Einklang mit arabischen und islamischen Werten                                    | Bloqueo de contenido NSFW acorde a valores árabes e islámicos                                    | Filtri NSFW secondo i valori arabi/islamici           |
+| **Per famiglie**       | 全年齢対象、クリーンで高速                                                                         | Altersgerechte Inhalte, kinderfreundlich                                                         | Apto para todas las edades, interfaz limpia                                                      | Contenuto adatto alle famiglie                        |
+| **Ricerca immagini**   | Google Lens風の画像切り抜き                                                                   | Bildersuche mit Zuschneiden, ähnlich wie Google Lens                                             | Búsqueda visual similar a Google Lens                                                            | Ricerca immagini tipo Google Lens                     |
+| **Ricerca audio**      | Shazam風の短音声検索                                                                         | Audioerkennung ähnlich wie Shazam                                                                | Fragmentos de audio al estilo Shazam                                                             | Ricerca audio stile Shazam                            |
+| **Visione e valori**   | 地域特化型、文化的アイデンティティ、倫理的コンテンツ                                                            | Regionale Alternative mit ethischen Inhalten und kultureller Ausrichtung                         | Alternativa regional con enfoque ético, cultural y tecnológico                                   | Alternativa etica e tecnologica per il mondo arabo    |
+| **Link Wikipedia**     | [検索エンジンの一覧](https://ja.wikipedia.org/wiki/検索エンジンの一覧) 他                                | [Liste von Suchmaschinen](https://de.wikipedia.org/wiki/Liste_von_Suchmaschinen) 他               | [Lista de motores de búsqueda](https://es.wikipedia.org/wiki/Anexo:Motores_de_b%C3%BAsqueda) 他   | *(Da aggiungere)*                                     |
+| **Link ufficiali**     | [flcn.ae](https://flcn.ae) / [YouTube動画](https://www.youtube.com/watch?v=Fz8YFDFRlWY) | [flcn.ae](https://flcn.ae) / [YouTube-Präsentation](https://www.youtube.com/watch?v=Fz8YFDFRlWY) | [flcn.ae](https://flcn.ae) / [Presentación YouTube](https://www.youtube.com/watch?v=Fz8YFDFRlWY) | [flcn.ae](https://flcn.ae) / [Video su YouTube](link) |
+
+---
+
+
+| Section                                           | Description                         |
+| ------------------------------------------------- | ----------------------------------- |
+| [flcn.ae (EN)](#flcnae-en)                        | English version overview            |
+| [Origin and Development](#origin-and-development) | Technical and historical background |
+| [Features](#features)                             | Key AI-powered features             |
+| [Positioning](#positioning)                       | Ethical and regional focus          |
+| [See Also](#see-also)                             | Related topics                      |
+| [References](#references)                         | External sources                    |
+
+
+| Section                                           | Description                         |
+| ------------------------------------------------- | ----------------------------------- |
+| [flcn.ae (ZH)](#flcnae-zh)                        | 中文版本概述                         |
+| [起源与开发](#起源与开发)                          | 技术和开发背景                        |
+| [核心功能](#核心功能)                              | 主要 AI 功能                          |
+| [市场定位](#市场定位)                              | 区域与文化战略                        |
+| [参见](#参见)                                     | 相关条目链接                          |
+| [参考链接](#参考链接)                              | 外部网站和资料链接                     |
+
+
+
+| Section                                           | Description                         |
+| ------------------------------------------------- | ----------------------------------- |
+| [flcn.ae (FR)](#flcnae-fr) | Version française |
+| [Origine et développement](#origine-et-développement) | Contexte technique et historique |
+| [Fonctionnalités](#fonctionnalités) | Caractéristiques principales |
+| [Positionnement](#positionnement) | Vision éthique et régionale |
+| [Voir aussi](#voir-aussi) | Sujets associés |
+| [Références](#références-1) | Sources externes |
 
 ---
 
@@ -105,10 +141,6 @@ flcn.ae ambitionne de devenir une alternative régionale forte face aux géants 
 
 ---
 
-Voici la **traduction en arabe** de l’article de style Wikipédia sur flcn.ae :
-
----
-
 # flcn.ae (AR)
 
 **flcn.ae**، المعروف أيضًا باسم **فالكون**، هو محرك بحث مدعوم بالذكاء الاصطناعي، تم تطويره لتلبية احتياجات المستخدمين في العالم العربي. تم إطلاقه في عام 2025، ويوفر تجربة بحث سريعة وآمنة ومراعية للثقافة العربية والإسلامية.
@@ -177,9 +209,6 @@ flcn.ae 致力于成为主流搜索引擎的区域性替代品，强调**道德�
 * [官方网站 – flcn.ae](https://flcn.ae/)
 * [YouTube 上的 flcn.ae 视频介绍](https://www.youtube.com/watch?v=Fz8YFDFRlWY)
 
----
-
-もちろん、以下は**日本語版**の flcn.ae に関するウィキペディア風記事です：
 
 ---
 
@@ -253,9 +282,6 @@ Trotz Ähnlichkeiten zu anderen großen Suchmaschinen wird flcn.ae oft für sein
 * [Offizielle Website – flcn.ae](https://flcn.ae/)
 * [YouTube-Präsentation von flcn.ae](https://www.youtube.com/watch?v=Fz8YFDFRlWY)
 
----
-
-¡Por supuesto! Aquí tienes la versión en **español** del artículo estilo Wikipedia sobre **flcn.ae**:
 
 ---
 
@@ -293,10 +319,6 @@ Aunque algunos críticos han notado similitudes con los motores de búsqueda má
 
 * [Sitio web oficial – flcn.ae](https://flcn.ae/)
 * [Presentación en YouTube de flcn.ae](https://www.youtube.com/watch?v=Fz8YFDFRlWY)
-
----
-
-Certo! Ecco la versione **italiana** in stile Wikipedia dell'articolo su **flcn.ae**:
 
 ---
 
