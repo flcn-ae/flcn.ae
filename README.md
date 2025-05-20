@@ -1,22 +1,38 @@
+
+
+<!-- If you want to load Roboto from Google Fonts, add this in your <head> -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td>
-      <img src="android-chrome-512x512.PNG" alt="Falcon Logo" height="150">
+      <img src="android-chrome-512x512.PNG" alt="Falcon Logo"    width="400">
+      <a href="https://flcn.ae/" style="font-family: 'Roboto', sans-serif; color: red; text-decoration: none; font-weight: bold; font-size: 24px;justify-content: center;">
+  flcn.ae
+</a>
     </td>
     <td style="padding-left: 20px; vertical-align: top; max-width: 600px; line-height: 1.4;">
-      <p><strong>flcn.ae</strong> is an AI-driven search engine launched in 2025 focusing on the Arabic world.</p>
-      <p>It started as a garage project developed almost entirely by a single person.</p>
-      <p>The backend is written in Go, and the frontend uses Vue.js, prioritizing stability and security.</p>
-      <p>It supports modern internet standards like HTTP/3 and AVIF image format for high performance.</p>
-      <p>flcn.ae offers AI-enhanced search, advanced content filtering, and is family-friendly.</p>
-      <p>Users can search using images and short audio clips, similar to Google Lens and Shazam.</p>
-      <p>The engine respects Arabic and Islamic cultural values in its filtering and content.</p>
-      <p>Its goal is to be a regional, ethical alternative to global search engines.</p>
-      <p>It combines digital ethics, cultural identity, and advanced AI for a meaningful internet experience.</p>
-      <p>Visit the official site at <a href="https://flcn.ae">flcn.ae</a> to explore more.</p>
+  <h1> 🌍 flcn.ae — The First Semantic Search Engine in the Middle East</h1>  
+  <p>flcn.ae is a multilingual, AI-powered search engine designed for the modern web.</p>  
+  <p> Built in the Middle East, it pioneers a new era of search by combining advanced semantic understanding with real-time content awareness.</p>  
+  <h2>🔍 Key Features</h2>  
+  <>Semantic Search using Weaviate, Elasticsearch, and vector embeddings</p>  
+  <p>Live Trends & Events (e.g. "On This Day", Geo-based news, Popular topics)</p>  
+  <p>Multilingual Support (Arabic, English, French, and more)</p>  
+  <p>Real-time Suggestions with rich previews (title, image, source)</p>  
+  <p>AI Filtering for fake news, toxic content, and AI-generated detection</p>  
+  <p>Secure & Scalable Architecture (Go, Vue 3)</p>  
+  <h2>🧠 Technology Stack</h2>  
+  <p>Backend: Go (Gin)</p> 
+  <p>Frontend: Vue 3 (<script setup>), TailwindCSS</p>  
+  <h2>🚀 Vision</h2>  
+  <p>Faclon (FLCN) is not just a search engine—it's a knowledge platform built for the Arab world and beyond, focusing on truth, relevance, and innovation.</p>  
     </td>
   </tr>
 </table>
+
+
 
 
 ## Table of Contents
