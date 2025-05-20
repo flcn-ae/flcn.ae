@@ -9,24 +9,24 @@
 | [See Also](#see-also)                             | Related topics                      |
 | [References](#references)                         | External sources                    |
 
-\| [flcn.ae (FR)](#flcnae-fr) | Version française |
-\| [Origine et développement](#origine-et-développement) | Contexte technique et historique |
-\| [Fonctionnalités](#fonctionnalités) | Caractéristiques principales |
-\| [Positionnement](#positionnement) | Vision éthique et régionale |
-\| [Voir aussi](#voir-aussi) | Sujets associés |
-\| [Références](#références-1) | Sources externes |
+| [flcn.ae (FR)](#flcnae-fr) | Version française |
+| [Origine et développement](#origine-et-développement) | Contexte technique et historique |
+| [Fonctionnalités](#fonctionnalités) | Caractéristiques principales |
+| [Positionnement](#positionnement) | Vision éthique et régionale |
+| [Voir aussi](#voir-aussi) | Sujets associés |
+| [Références](#références-1) | Sources externes |
 
-\| [flcn.ae (AR)](#flcnae-ar) | النسخة العربية |
-\| [النشأة والتطوير](#النشأة-والتطوير) | الخلفية التقنية والتاريخية |
-\| [الميزات](#الميزات) | الميزات التقنية والذكاء الاصطناعي |
-\| [التوجه](#التوجه) | النهج الأخلاقي والإقليمي |
-\| [انظر أيضًا](#انظر-أيضًا) | روابط ذات صلة |
-\| [المراجع](#المراجع) | المصادر |
+| [flcn.ae (AR)](#flcnae-ar) | النسخة العربية |
+| [النشأة والتطوير](#النشأة-والتطوير) | الخلفية التقنية والتاريخية |
+| [الميزات](#الميزات) | الميزات التقنية والذكاء الاصطناعي |
+| [التوجه](#التوجه) | النهج الأخلاقي والإقليمي |
+| [انظر أيضًا](#انظر-أيضًا) | روابط ذات صلة |
+| [المراجع](#المراجع) | المصادر |
 
-\| [flcn.ae (ZH)](#flcnae-zh) | 中文版本 |
-\| [起源与开发](#起源与开发) | 技术和开发背景 |
-\| [核心功能](#核心功能) | 主要 AI 功能 |
-\| [定位](#定位) | 区域与文化战略 |
+| [flcn.ae (ZH)](#flcnae-zh) | 中文版本 |
+| [起源与开发](#起源与开发) | 技术和开发背景 |
+| [核心功能](#核心功能) | 主要 AI 功能 |
+| [定位](#定位) | 区域与文化战略 |
 
 ---
 
