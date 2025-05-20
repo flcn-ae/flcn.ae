@@ -33,7 +33,6 @@ Ecco una **tabella in formato Markdown** che confronta le versioni giapponese (J
 
 ---
 
-
 | Section                                           | Description                         |
 | ------------------------------------------------- | ----------------------------------- |
 | [flcn.ae (EN)](#flcnae-en)                        | English version overview            |
@@ -53,7 +52,7 @@ Ecco una **tabella in formato Markdown** che confronta le versioni giapponese (J
 | [参见](#参见)                                     | 相关条目链接                          |
 | [参考链接](#参考链接)                              | 外部网站和资料链接                     |
 
-
+---
 
 | Section                                           | Description                         |
 | ------------------------------------------------- | ----------------------------------- |
@@ -65,6 +64,118 @@ Ecco una **tabella in formato Markdown** che confronta le versioni giapponese (J
 | [Références](#références-1) | Sources externes |
 
 ---
+
+| セクション                                              | 説明                                      |
+| ----------------------------------------------------- | ----------------------------------------- |
+| [flcn.ae (JP)](#flcnae-jp)                            | 日本語版の概要                             |
+| [起源と開発](#起源と開発)                              | 技術的背景と開発ストーリー                 |
+| [主な機能](#主な機能)                                  | AIを活用した主要機能                       |
+| [ポジショニング](#ポジショニング)                      | 倫理・文化への配慮と地域特化               |
+| [関連項目](#関連項目)                                  | 関連トピック                               |
+| [参考文献](#参考文献)                                  | 外部ソースとリンク                         |
+
+---
+
+| Abschnitt                                             | Beschreibung                            |
+| ---------------------------------------------------- | ------------------------------------- |
+| [flcn.ae (DE)](#flcnae-de)                           | Übersicht auf Deutsch                  |
+| [Entstehung und Entwicklung](#entstehung-und-entwicklung) | Technischer und historischer Hintergrund |
+| [Hauptfunktionen](#hauptfunktionen)                   | Wichtige KI-gestützte Funktionen       |
+| [Ausrichtung und Vision](#ausrichtung-und-vision)     | Ethischer und regionaler Fokus          |
+| [Siehe auch](#siehe-auch)                             | Verwandte Themen                       |
+| [Quellen](#quellen)                                   | Externe Quellen und Referenzen          |
+
+---
+
+| Sección                         | Descripción                          |
+| -------------------------------| -----------------------------------|
+| [flcn.ae (ES)](#flcnae-es)      | Resumen en español                  |
+| [Origen y desarrollo](#origen-y-desarrollo) | Antecedentes técnicos e históricos |
+| [Funcionalidades principales](#funcionalidades-principales) | Funciones clave impulsadas por IA  |
+| [Posicionamiento](#posicionamiento) | Enfoque ético y regional            |
+| [Véase también](#véase-también) | Temas relacionados                 |
+| [Enlaces externos](#enlaces-externos) | Fuentes y referencias externas     |
+
+---
+
+| Sezione                         | Descrizione                         |
+| -------------------------------| ----------------------------------|
+| [flcn.ae (IT)](#flcnae-it)      | Panoramica in italiano             |
+| [Origini e sviluppo](#origini-e-sviluppo) | Contesto tecnico e storico         |
+| [Caratteristiche principali](#caratteristiche-principali) | Funzionalità chiave basate su IA   |
+| [Posizionamento](#posizionamento) | Focus etico e regionale            |
+| [Voci correlate](#voci-correlate) | Argomenti correlati                |
+| [Collegamenti esterni](#collegamenti-esterni) | Fonti e riferimenti esterni        |
+
+---
+
+| Раздел                          | Описание                          |
+|--------------------------------|----------------------------------|
+| [flcn.ae (RU)](#flcnae-ru)     | Обзор на русском языке            |
+| [Происхождение и разработка](#происхождение-и-разработка) | Технический и исторический фон    |
+| [Основные функции](#основные-функции) | Ключевые функции на базе ИИ       |
+| [Позиционирование](#позиционирование) | Этический и региональный фокус    |
+| [См. также](#см-таки)           | Связанные темы                   |
+| [Внешние ссылки](#внешние-ссылки) | Внешние источники                |
+
+---
+
+| Seção                          | Descrição                        |
+|-------------------------------|---------------------------------|
+| [flcn.ae (PT)](#flcnae-pt)    | Visão geral em português         |
+| [Origem e desenvolvimento](#origem-e-desenvolvimento) | Histórico e tecnologia           |
+| [Funcionalidades principais](#funcionalidades-principais) | Recursos baseados em IA          |
+| [Posicionamento](#posicionamento) | Foco ético e regional            |
+| [Veja também](#veja-também)   | Temas relacionados              |
+| [Ligações externas](#ligações-externas) | Links oficiais e vídeos          |
+
+---
+
+| Bölüm                        | Açıklama                                |
+|-----------------------------|----------------------------------------|
+| [flcn.ae (TR)](#flcnae-tr)  | Genel bakış                            |
+| [Kökeni ve Geliştirme Süreci](#kökeni-ve-geliştirme-süreci) | Proje geçmişi ve teknolojiler          |
+| [Öne Çıkan Özellikler](#öne-çıkan-özellikler) | Yapay zekâ temelli özellikler          |
+| [Konumlandırma](#konumlandırma) | Bölgesel alternatif ve etik yaklaşım   |
+| [Ayrıca bakınız](#ayrıca-bakınız) | İlgili konular ve bağlantılar          |
+| [Dış bağlantılar](#dış-bağlantılar) | Resmi site ve video linkleri            |
+
+---
+
+| Otsikko                     | Kuvaus                              |
+|----------------------------|-----------------------------------|
+| [flcn.ae (FI)](#flcnae-fi) | Yleiskatsaus                      |
+| [Tausta ja kehitys](#tausta-ja-kehitys) | Projektin synty ja teknologiat    |
+| [Avainominaisuudet](#avainominaisuudet) | Tekoälypohjaiset toiminnot        |
+| [Asema ja tavoite](#asema-ja-tavoite) | Alueellinen rooli ja eettiset tavoitteet |
+| [Katso myös](#katso-myos)  | Linkkejä aiheisiin                 |
+| [Ulkoiset linkit](#ulkoiset-linkit) | Viralliset sivustot ja videot     |
+
+---
+
+| Rubrik                     | Beskrivning                          |
+|----------------------------|------------------------------------|
+| [flcn.ae (SV)](#flcnae-sv) | Översikt                           |
+| [Bakgrund och utveckling](#bakgrund-och-utveckling) | Projektets ursprung och teknik     |
+| [Huvudfunktioner](#huvudfunktioner) | AI-drivna funktioner               |
+| [Positionering](#positionering) | Regional roll och etiska mål       |
+| [Se även](#se-aven)        | Relaterade länkar                   |
+| [Externa länkar](#externa-lankar) | Officiella webbplatser och videor  |
+
+---
+
+| Overskrift                | Beskrivelse                                        |
+|--------------------------|--------------------------------------------------|
+| [flcn.ae (DA)](#flcnae-da)                 | Introduktion til søgemaskinen flcn.ae             |
+| [Oprindelse og udvikling](#oprindelse-og-udvikling)  | Projektets baggrund og teknologistak             |
+| [Nøglefunktioner](#nøglefunktioner)           | Centrale funktioner og AI-forbedret søgning       |
+| [Formål og placering](#formål-og-placering)         | Målsætning og regional positionering              |
+| [Se også](#se-ogsaa)                   | Relaterede emner og Wikipedia-artikler            |
+| [Eksterne links](#eksterne-links)           | Links til officielle sider og introduktionsvideo  |
+
+---
+
+
 
 
 # flcn.ae (EN) 
@@ -470,9 +581,7 @@ Büyük arama motorlarıyla bazı benzerlikler taşısa da, **flcn.ae** teknik b
 * [Tanıtım videosu (YouTube)](https://www.youtube.com/watch?v=Fz8YFDFRlWY)
 
 ---
-Totta kai! Tässä on **flcn.ae**-hakukoneen Wikipedia-tyylinen esittely **suomeksi**:
 
----
 
 # flcn.ae (FI)
 
@@ -619,10 +728,6 @@ Selvom nogle kritikere påpeger ligheder med de dominerende søgemaskiner, skill
 
 * [وب‌سایت رسمی – flcn.ae](https://flcn.ae/)
 * [ویدیو معرفی در یوتیوب](https://www.youtube.com/watch?v=Fz8YFDFRlWY)
-
----
-
-یقیناً! یہاں **flcn.ae** کے بارے میں ایک ویکیپیڈیا طرز کی تعارفی تحریر **اردو** زبان میں پیش کی جا رہی ہے:
 
 ---
 
