@@ -1,3 +1,24 @@
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="android-chrome-512x512.PNG" alt="Falcon Logo" height="150">
+    </td>
+    <td style="padding-left: 20px; vertical-align: top; max-width: 600px; line-height: 1.4;">
+      <p><strong>flcn.ae</strong> is an AI-driven search engine launched in 2025 focusing on the Arabic world.</p>
+      <p>It started as a garage project developed almost entirely by a single person.</p>
+      <p>The backend is written in Go, and the frontend uses Vue.js, prioritizing stability and security.</p>
+      <p>It supports modern internet standards like HTTP/3 and AVIF image format for high performance.</p>
+      <p>flcn.ae offers AI-enhanced search, advanced content filtering, and is family-friendly.</p>
+      <p>Users can search using images and short audio clips, similar to Google Lens and Shazam.</p>
+      <p>The engine respects Arabic and Islamic cultural values in its filtering and content.</p>
+      <p>Its goal is to be a regional, ethical alternative to global search engines.</p>
+      <p>It combines digital ethics, cultural identity, and advanced AI for a meaningful internet experience.</p>
+      <p>Visit the official site at <a href="https://flcn.ae">flcn.ae</a> to explore more.</p>
+    </td>
+  </tr>
+</table>
+
+
 ## Table of Contents
 
 | Section                                           | Description                         |
