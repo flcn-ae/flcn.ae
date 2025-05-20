@@ -17,7 +17,7 @@
   <p>flcn.ae is a multilingual, AI-powered search engine designed for the modern web.</p>  
   <p> Built in the Middle East, it pioneers a new era of search by combining advanced semantic understanding with real-time content awareness.</p>  
   <h2>🔍 Key Features</h2>  
-  <>Semantic Search using Weaviate, Elasticsearch, and vector embeddings</p>  
+  <p>Semantic Search using Weaviate, Elasticsearch, and vector embeddings</p>  
   <p>Live Trends & Events (e.g. "On This Day", Geo-based news, Popular topics)</p>  
   <p>Multilingual Support (Arabic, English, French, and more)</p>  
   <p>Real-time Suggestions with rich previews (title, image, source)</p>  
